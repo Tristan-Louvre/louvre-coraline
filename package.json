@@ -2,7 +2,10 @@
   "name": "coraline",
   "version": "0.0.0",
   "license": "MIT",
+  "description": "A Guild Wars 2 Templating desltop application.",
+  "main": "main.js",
   "scripts": {
+    "electron": "electron .",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
